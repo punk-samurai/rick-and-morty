@@ -1,4 +1,4 @@
-import CharacterList from './components/CharacterList';
+import CharacterList from './components/CharacterList/CharacterList';
 
 export default function Home() {
   return (

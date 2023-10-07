@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useState } from "react";
 import Image from "next/image"; // Next.js Image component
-import Pagination from "./Pagination";
+import Pagination from "../Pagination/Pagination";
 import styles from "./CharacterList.module.css";
 interface Character { 
   id: number;
